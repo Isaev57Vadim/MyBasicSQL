@@ -1,0 +1,2 @@
+# MyBasicSQL
+SQL scripts 
